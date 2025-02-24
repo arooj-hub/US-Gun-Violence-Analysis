@@ -30,5 +30,5 @@ https://drive.google.com/drive/folders/13zzRXIPtGS7MAF4BBZ_TzfTM4rEyQeUr?usp=dri
 - **Develop predictive models** for forecasting gun violence trends.
 - **Analyze the impact of gun laws** on incident rates.
 
-View Visualizations here:
+## Tableau Dashboard:
 https://public.tableau.com/app/profile/arooj.fatima3827/viz/USGunViolenceAnalysis/GunViolenceAnalysis?publish=yes
