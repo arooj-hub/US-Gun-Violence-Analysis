@@ -3,6 +3,9 @@
 ## Project Overview
 Gun violence is a major public safety concern in the United States. This project analyzes **gun-related incidents** across different states and cities, identifying trends, patterns, and risk factors.
 
+## Data 
+https://drive.google.com/drive/folders/13zzRXIPtGS7MAF4BBZ_TzfTM4rEyQeUr?usp=drive_link
+
 ## Key Objectives
 - **Explore geographic & temporal trends** in gun violence.
 - **Identify correlations** between firearms involved and fatalities.
