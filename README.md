@@ -12,13 +12,6 @@ https://drive.google.com/drive/folders/13zzRXIPtGS7MAF4BBZ_TzfTM4rEyQeUr?usp=dri
 - **Use clustering techniques** to categorize incidents based on severity.
 - **Perform time-series analysis** to detect seasonal patterns.
 
-## Repository Structure
-- `data/` → Raw and cleaned datasets.
-- `notebooks/` → Jupyter notebooks for **Exploratory, Regression, Clustering, and Time-Series** analysis.
-- `scripts/` → Python scripts used for analysis.
-- `visuals/` → Graphs and plots used in reports.
-- `reports/` → Summary findings and key insights.
-
 ## Key Insights
 - **Certain states and cities** have significantly higher gun violence rates.
 - **Incidents involving multiple firearms** tend to have **higher fatalities**.
